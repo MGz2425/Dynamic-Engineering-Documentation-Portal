@@ -55,14 +55,4 @@ npm install -D @types/react @types/react-dom
 Contributing
 - Feel free to open issues or PRs. For code changes, follow the existing TypeScript and Tailwind styling patterns.
 
-License
-- Add a license file if you plan to publish the repo publicly.
 
-Contact
-- For more context about this project, check `architecture.md` and `metadata.json`.
-
----
-
-If you'd like, I can also:
-- Add a `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`.
-- Set up GitHub Actions for linting and type-checking.
