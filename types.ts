@@ -1,10 +1,9 @@
 
 export enum DocCategory {
-  PROTOCOL = 'Protocol Specifications',
-  TESTING = 'Testing Procedures',
-  ARCHITECTURE = 'System Architecture',
-  OPERATIONS = 'Operations & Maintenance',
-  SECURITY = 'Security Compliance'
+  BIOGRAPHY = 'Biography',
+  SERMONS = 'Sermons',
+  ARTICLES = 'Articles',
+  BOOKS = 'Books'
 }
 
 export interface TechnicalDoc {
